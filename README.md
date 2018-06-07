@@ -1,4 +1,5 @@
-**Cifra de César em Javascript**
+Cifra de César em Javascript
+=============================
 
 1. Obter palavra a ser cifrada via 'prompt';
 2. Validar se a palavra não é vazia;
@@ -11,4 +12,8 @@
 9. Se a validação for falsa, não executar nada;
 10. Se a validação for verdadeira, validar se a palavra contém número;
 11. Se a palavra contém número, exibir alerta via 'alert';
-12. Se a palavra não contém número, decifrar a palavra via 'function decipher';s
+12. Se a palavra não contém número, decifrar a palavra via 'function decipher';
+
+Fluxograma
+---------------------------------------------------------------
+![Fluxograma](Fluxograma-CifradeCésar-Sprint1.jpg "Fluxograma")
